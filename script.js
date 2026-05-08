@@ -4,7 +4,7 @@
    Leave it as "" to show the illustrated placeholder instead.
    ══════════════════════════════════════════════════════════════ */
 
-const COUPLE_PHOTO_URL = "photo/02.jpeg";
+const COUPLE_PHOTO_URL = "photo/17.jpeg";
 
 (function applyPhoto() {
   if (!COUPLE_PHOTO_URL) return;
