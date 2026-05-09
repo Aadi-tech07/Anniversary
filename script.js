@@ -16,7 +16,7 @@ const FADE_DURATION_MS = 1000;  // fade out takes 0.5 second
 /* ══════════════════════════════════════════════════════════════
    RSVP SERVER CONFIG
    ══════════════════════════════════════════════════════════════ */
-const RSVP_SERVER = 'http://localhost:3001/rsvp';
+const RSVP_SERVER = 'https://anniversary-lcpr.onrender.com';
 
 /* ═══════════════════ Photo Slideshow ═══════════════════════ */
 (function initSlideshow() {
